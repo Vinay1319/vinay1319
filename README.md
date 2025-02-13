@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](banner_linkedin.png)
 
 
 <h1 align="center">Hi 👋, I'm Vinay Pati</h1>
